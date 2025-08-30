@@ -32,7 +32,6 @@
   <img alt="Nmap" src="https://img.shields.io/badge/Nmap-32A852?style=flat-square&logo=nmap&logoColor=white" />
   <img alt="TCP/IP" src="https://img.shields.io/badge/TCP–IP-000000?style=flat-square&logo=network-wired&logoColor=white" />
 </p>
----
 ## Contact
-- **Email:** [📧](mailto:eoksumm@gmail.com)  
-- **Portfolio Website:** [🌐](https://eoksumm.github.io/portfolio)
+**Email:** [📧](mailto:eoksumm@gmail.com)  
+**Portfolio Website:** [🌐](https://eoksumm.github.io/portfolio)
